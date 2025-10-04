@@ -1,0 +1,2 @@
+# Auto-SOS-Smart-post-accident-detection-and-response-system
+Our team secured first prize in the IoT track at Techavishkar 2.0 Hackathon held at ATME College of Engineering , Mysore held on 15th-16th May 2025. Our Project AutoSOS, aims to reduce the delay in providing help to the individuals who are injured in an accident, providing  emergency help to them by providing green corridor to emergency services.
